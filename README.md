@@ -61,9 +61,29 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-ruby-nine-43.vercel.app/api?username=mark31266&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mark31266&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mark31266&theme=radical)
+<div align="center">
+
+  <!-- Stats -->
+  <img
+    src="https://github-readme-stats-ruby-nine-43.vercel.app/api?username=mark31266&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+    alt="Glenn's GitHub stats"
+    width="100%"
+  />
+
+  <!-- Top Languages (use your Vercel instance too) -->
+  <img
+    src="https://github-readme-stats-ruby-nine-43.vercel.app/api/top-langs/?username=mark31266&layout=compact&theme=radical"
+    alt="Top Languages"
+    width="100%"
+  />
+
+  <!-- Streak -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=mark31266&theme=radical"
+    alt="GitHub Streak"
+    width="100%"
+  />
+</div>
 
 ---
 
