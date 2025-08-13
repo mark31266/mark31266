@@ -61,7 +61,7 @@
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats-ruby-nine-43.vercel.app/api?username=mark31266&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-ruby-nine-43.vercel.app/api?username=mark31266&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mark31266&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mark31266&theme=radical)
 
