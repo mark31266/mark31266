@@ -54,9 +54,10 @@
 
 ## 🌐 Websites I've Built
 - [**Ridebuy PH**](https://ridebuy.ph) – E-commerce platform for motorcycle gear and accessories.
-- [**Ron Technik**](https://rontechnik.com/) – Company website for industrial solutions.
-- [**RRS Electric**](https://rrselectric.com/) – Electrical services and solutions website.
 - [**Oxy Originals**](https://oxyoriginals.com/) – Footwear brand e-commerce site.
+- [**Meet My Feet**](https://mmfkids.com/) – Kids/Children brand e-commerce site.
+- [**Global Medical Solutions PMS System**](https://gms-frontend-8dvih.ondigitalocean.app/) – Used for managing service reports and PMS (Preventive Maintenance Service) reports. 
+- [**LabX Laboratory Information System**](https://labx-frontend-fvzaj.ondigitalocean.app/) – Cloud-based modern laboratory information system.
 
 ---
 
